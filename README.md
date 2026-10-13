@@ -2,6 +2,7 @@
 **Course:** 23AID205 – Artificial Intelligence & Machine Learning  
 **Project Guideline Reference:** `2025.R.AID.1.23AID205`  
 **Repository:** [Household-Energy-Prediction-using-Machine-Learning](https://github.com/Adithya-2007/Household-Energy-Prediction-using-Machine-Learning)  
+**Live Hosted Webpage:** [https://adithya-2007.github.io/Household-Energy-Prediction-using-Machine-Learning/](https://adithya-2007.github.io/Household-Energy-Prediction-using-Machine-Learning/)  
 
 ---
 
